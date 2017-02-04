@@ -1,3 +1,3 @@
-# Never Commit to Master: An Introduction to Git Flow
+# Commit em Master nunca mais: Introdução ao Git Flow
 
-Presentation by [Oliver Davies](https://www.oliverdavies.uk).
+Apresentação por [Felipe Ribeiro](https://github.com/gohackfelipe).
